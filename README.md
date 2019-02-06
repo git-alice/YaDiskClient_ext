@@ -18,5 +18,5 @@
 ```
 ## Type of preview
 
-    https://tech.yandex.com/disk/doc/dg/reference/preview-docpage/
+    [Yandex docs] (https://tech.yandex.com/disk/doc/dg/reference/preview-docpage/)
 

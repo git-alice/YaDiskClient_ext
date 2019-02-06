@@ -1,5 +1,7 @@
 # Adds download a preview file.
 
+Small extension [YaDiskClient](https://github.com/TyVik/YaDiskClient)
+
 ## Requirements
 
     pip install YaDiskClient

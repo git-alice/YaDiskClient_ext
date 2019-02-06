@@ -8,12 +8,12 @@ Requirements
 Using
 =======
 
-```
-    from YaDisk_ext import YaDisk_ext
 
-    disk = YaDisk_ext(yandex_login, yandex_password)
+```from YaDisk_ext import YaDisk_ext
 
-    disk.preview('folder/on/yandexdisk/img.png', 'save/folder/img.png', 'XS')
+disk = YaDisk_ext(yandex_login, yandex_password)
+
+disk.preview('folder/on/yandexdisk/img.png', 'save/folder/img.png', 'XS')
 ```
 
 Type of preview
